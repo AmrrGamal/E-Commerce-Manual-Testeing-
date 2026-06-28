@@ -113,6 +113,3 @@ The project identified defects related to:
 
 Fresh Graduate | Manual Software Testing
 
-LinkedIn: *(Add your LinkedIn profile)*
-
-GitHub: *(Add your GitHub profile)*
