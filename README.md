@@ -1,4 +1,4 @@
-## Swag Labs Manual Testing Project
+# Swag Labs Manual Testing Project
 Overview
 
 This repository contains a complete Manual Software Testing Project for the Swag Labs E-Commerce Website. The project demonstrates the complete Software Testing Life Cycle (STLC), from requirement analysis to final test reporting.
