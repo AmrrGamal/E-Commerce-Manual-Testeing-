@@ -65,7 +65,7 @@ This repository contains:
 * Manual Test Cases
 * Bug Reports
 * Test Summary Report (TSR)
-* Requirement Traceability Matrix (Optional)
+
 
 ---
 
